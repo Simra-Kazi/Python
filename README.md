@@ -46,4 +46,4 @@ Projects and code will be added soon.
 
 ---
 
-*Stay tuned for upcoming projects!*
+
